@@ -1,0 +1,10 @@
+| 镜像加速器          | 镜像加速器地址                          |
+| ------------------- | --------------------------------------- |
+| Docker 中国官方镜像 | https://registry.docker-cn.com          |
+| DaoCloud 镜像站     | http://f1361db2.m.daocloud.io           |
+| Azure 中国镜像      | https://dockerhub.azk8s.cn              |
+| 科大镜像站          | https://docker.mirrors.ustc.edu.cn      |
+| 阿里云              | https://<your_code>.mirror.aliyuncs.com |
+| 七牛云              | https://reg-mirror.qiniu.com            |
+| 网易云              | https://hub-mirror.c.163.com            |
+| 腾讯云              | https://mirror.ccs.tencentyun.com       |
